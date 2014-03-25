@@ -1,0 +1,203 @@
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Valve Hammer Editor\tools\hlcsg.exe"C:\Users\jorge_e_susana\Desktop\gg_toon_groove_ggn_2\vvvv 
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       4 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+
+
+entering C:\Users\jorge_e_susana\Desktop\gg_toon_groove_ggn_2\vvvv.map
+CreateBrush:
+ (0.15 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.46 seconds)
+Using WAD File: \wads\cstrike.wad
+Using WAD File: \wads\halflife.wad
+Using WAD File: \wads\cstraining.wad
+Using WAD File: \wads\decals.wad
+Using WAD File: \wads\chateau.wad
+Using WAD File: \wads\cs_havana.wad
+Using WAD File: \wads\cs_bdog.wad
+Using WAD File: \wads\cs_cbble.wad
+Using WAD File: \wads\cs_office.wad
+Using WAD File: \wads\de_airstrip.wad
+Using WAD File: \wads\de_piranesi.wad
+Using WAD File: \wads\de_storm.wad
+Using WAD File: \wads\de_vertigo.wad
+Using WAD File: \wads\toon_groove.wad
+Texture usage is at 1.09 mb (of 4.00 mb MAX)
+0.66 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Valve Hammer Editor\tools\hlbsp.exe"C:\Users\jorge_e_susana\Desktop\gg_toon_groove_ggn_2\vvvv 
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'C:\Users\jorge_e_susana\Desktop\gg_toon_groove_ggn_2\vvvv.prt'
+1.33 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Valve Hammer Editor\tools\hlvis.exe"-fast C:\Users\jorge_e_susana\Desktop\gg_toon_groove_ggn_2\vvvv 
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+ 731 portalleafs
+2422 numportals
+BasePortalVis:
+ (0.23 seconds)
+average leafs visible: 479
+g_visdatasize:62818  compressed from 67252
+0.31 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Valve Hammer Editor\tools\hlrad.exe"C:\Users\jorge_e_susana\Desktop\gg_toon_groove_ggn_2\vvvv 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 4 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\Valve Hammer Editor\tools\lights.rad']
+[1 texlights parsed from 'C:\Valve Hammer Editor\tools\lights.rad']
+
+6462 faces
+Create Patches : 42758 base patches
+0 opaque faces
+138085 square feet [19884258.00 square inches]
+13 direct lights
+
+BuildFacelights:
+ (14.09 seconds)
+visibility matrix   : 109.0 megs
+BuildVisLeafs:
+ (22.92 seconds)
+MakeScales:
+ (13.88 seconds)
+SwapTransfers:
+ (5.72 seconds)
+Transfer Lists : 76479284 transfers
+       Indices : 28706880 bytes
+          Data : 305917136 bytes
+GatherLight:
+ (0.64 seconds)
+FinalLightFace:
+ (1.77 seconds)
+59.62 seconds elapsed
+
+-----   END   hlrad -----
+
+
+

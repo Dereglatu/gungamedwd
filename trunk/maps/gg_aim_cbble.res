@@ -1,0 +1,1 @@
+sym_symlogo.wad

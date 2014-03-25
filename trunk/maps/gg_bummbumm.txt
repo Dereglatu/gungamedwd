@@ -1,0 +1,8 @@
+de_bummbumm
+map by Supralux
+
+Ts: Blow up one of
+the three targets.
+
+CTs: Save the bomb
+sites against Ts.

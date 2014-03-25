@@ -1,0 +1,17 @@
+AMP's Verson of aim_ak_colt.
+
+Features:
+-Scout in door on side of map, Door has a secret button to open it. (Hint: Button is invisable and within 15 feet of door)
+-Anti Rush, pit in middle of map
+-Anti Rush invisable Wall in middle of map, so you cant jump across with low grav.
+-A way to get to the AFK's by going in the back of your spawn up the ladder, and around the map.
+-Grenade inside the middle box, on both sides.
+-Health Charger and 2 Grenades, on the route to the AFK's.
+-Two Weapons of the opposite team, on top of each of the big blocks.
+
+Credits:
+-MAP BY AMP (Martin K)
+-Map Designed By AMP (Martin K)
+-Some Map Designed by Skittle (Dan E)
+-Beta Testing By Skittle (Dan E)
+-Credit to origanal maker of aim_ak_colt

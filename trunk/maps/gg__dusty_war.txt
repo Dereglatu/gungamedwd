@@ -1,0 +1,14 @@
+acc_dusty
+_____________________
+
+by Dr.Freimann
+
+
+decrase sv_gravity to 600 and set sv_airaccelerate to -20 (if wanted)
+
+_____________________
+
+built with Valve Hammer Editor 3.5, using ZHLT and cs_dust.wad
+
+
+(Press ENTER to Continue)
