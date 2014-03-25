@@ -1,0 +1,19 @@
+fy_hst_poolday
+----------------------------------------------------------
+
+http://hunterstrike.net
+
+info: Nothing special just fy_pool_day with some other textures
+
+textures: hst.wad
+
+----------------------------------------------------------
+
+by Radioactiv.eraser
+
+          and you can visit our website http://hunterstrike.net
+
+              thanks for playing
+
+
+

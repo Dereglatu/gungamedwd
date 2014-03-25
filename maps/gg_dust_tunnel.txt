@@ -1,0 +1,18 @@
+FUNWC3_dust_tunnel - Bomb/Defuse
+by ^Bend3R  (admin_bender@hotmail.com)
+
+
+I make this map for FUNWC3 server.
+Thanks for playing my map, Have Fun!
+
+
+Terrorist: Plant the bomb and hold your position to the time
+its will gonna explode (like 10 sek remaining).
+
+
+Counter-Terrorist: Hold position so terrorist not
+plant the bomb if they have do it you need too defuse it before
+its exploding.
+
+
+  (Press FIRE to continue)

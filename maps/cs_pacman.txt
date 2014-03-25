@@ -1,0 +1,24 @@
+Pacman - Hostage/Rescue
+Map and Textures:
+B4K73R1U5 [bakterius@hotmail.com]
+Idea:
+Murd3rd0ll
+------------------------
+www.mybmt.de.vu
+
+Background:
+Based on the old Arcade Game
+"Pacman".
+
+Counter-Terrorists:
+Find your Way throught the
+Maze and Rescue the Hostages!
+
+Terrorists: 
+Prevend Counter-Terrorists from
+rescueing the Hostages!
+
+Note:
+Do you like Cherrys?
+
+(Press FIRE to continue)

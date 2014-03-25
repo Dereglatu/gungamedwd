@@ -1,0 +1,16 @@
+DustMix IV - Bomb/Defuse
+*** *** *** *** *** *** ***
+by ]-[oR@cE (www.horacemaps.fr.st)
+textures by ]-[oR@cE and MacMan
+*** *** *** *** *** *** *** 
+Counter-Terrorists: Empêcher les Terro de 
+faire sauter les caisses de déchets radio-actifs avec 
+leur C4.
+
+Terrorists: Poser le C4, et faire 
+en sorte quelle explose en détruisant 
+les caisses de déchets radio-actifs.
+
+Other Notes: Il y a 2 points de bombing !
+
+(Press FIRE to continue) GOOD LUCK

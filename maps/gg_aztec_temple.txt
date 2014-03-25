@@ -1,0 +1,14 @@
+Aztec Temple - Bomb/Defuse
+by Charlie Ouyang (co2600) - co_2600@yahoo.com
+Textures from de_aztec (Macman)
+
+Counter-Terrorists: Prevent the Terrorists
+from bombing the water pipes or the temple.
+
+Terrorists: Destroy the temple or flood the
+area by bombing the pipes.
+
+Other Notes: There are 2 bomb sites in this
+mission.
+
+(Press FIRE to continue)
